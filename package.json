@@ -1,0 +1,19 @@
+{
+  "name": "az16-atm",
+  "version": "1.0.0",
+  "description": "atm",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
